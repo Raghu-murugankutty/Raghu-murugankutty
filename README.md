@@ -3,7 +3,7 @@
 Created some end to end machine learning web applications. Please find below the attached links.
 
 #### ML end to end projects
-1) Streamlit Web App Link: https://csheroku3.herokuapp.com/ 
+1) Customer clustering Streamlit Web App Link: https://csheroku3.herokuapp.com/ 
 
 #### Power-BI Sample projects
 1) Sales Dashboard Link1:- https://app.powerbi.com/groups/me/reports/f2fc7094-0034-4ff3-9219-92532424b11f/ReportSection
