@@ -10,6 +10,10 @@ Created some end to end machine learning web applications. Please find below the
 2) Sales Dashboard Link2:- https://app.powerbi.com/groups/me/reports/2fc9a6cd-8698-436d-b70d-1b9411c13e03/ReportSection
 3) Time series forecasting Link:- https://app.powerbi.com/groups/me/reports/4dcba48a-0228-4eef-8d52-72bc099df4ab/ReportSection87f7fed03b93553b0216
 
+#### Connect me on:
+LinkedIn: https://www.linkedin.com/in/raghumurugankutty/
+
+
 <!--
 **Raghu-murugankutty/Raghu-murugankutty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
