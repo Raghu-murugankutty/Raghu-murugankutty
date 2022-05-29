@@ -1,4 +1,4 @@
-### Hi there, I'm Raghu M
+### Hi there, I'm Raghu M 🌱
 
 Created some end to end machine learning web applications. Please find below the attached links.
 
