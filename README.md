@@ -11,7 +11,7 @@ Created some end to end machine learning web applications. Please find below the
 3) Time series forecasting Link:- https://app.powerbi.com/groups/me/reports/4dcba48a-0228-4eef-8d52-72bc099df4ab/ReportSection87f7fed03b93553b0216
 
 #### Connect me on:
-LinkedIn: https://www.linkedin.com/in/raghumurugankutty/
+1) LinkedIn: https://www.linkedin.com/in/raghumurugankutty/
 
 
 <!--
