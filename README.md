@@ -1,6 +1,6 @@
 ### Hi there, I'm Raghu M 🌱🔭
 
-Created some end to end machine learning web applications. Please find below the attached links
+Created some sample end to end machine learning web application. Please find below the attached links
 
 #### ML end to end projects
 1) Customer clustering Streamlit Web App Link: https://csheroku3.herokuapp.com/ 
