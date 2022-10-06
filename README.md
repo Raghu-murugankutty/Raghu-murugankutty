@@ -1,5 +1,8 @@
 ### Hi there, I'm Raghu M 🌱🔭
 
+**My Blogs** <img src="https://img.icons8.com/color/64/000000/blog.png"/>
+
+
 Created some sample end to end machine learning web application. Please find below the attached links
 
 #### ML end to end projects
