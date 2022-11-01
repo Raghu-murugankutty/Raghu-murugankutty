@@ -2,8 +2,6 @@
 
 Skills : Machine Learning, Deep Learning (Natural Language Processing, Computer Vision), Explainatory Data Analysis, Data Visualization, Model Deployment and Monitoring
 
-Project Links: Data Science Portfolio Projects, Data Analysis Uisng Python, Deep Learning Projects, Machine Learning Projects
-
 Languages: Python, JavaScript, SQL, HTML
 
 Deep Learning Framework: Tensorflow, PyTroch.
