@@ -12,8 +12,11 @@ Python Libraries & Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciP
 
 Analytical & Vsiualization Tools: Power BI, Excel
 
-#### Connect me on:
-1) LinkedIn: https://www.linkedin.com/in/raghumurugankutty/
+### Feel free to reach me 📱
+
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919846361426) 
+[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/raghumurugankutty/) 
+
 
 <!--
 **Raghu-murugankutty/Raghu-murugankutty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
