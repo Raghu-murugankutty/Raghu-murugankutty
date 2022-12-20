@@ -2,7 +2,7 @@
 
 <hr>
 
-**Skill set:** :dart:  Machine Learning | Deep Learning (Natural Language Processing(NLP), Computer Vision) | Explainatory Data Analysis | Data Visualization.
+**Skill set:**  Machine Learning | Deep Learning (Natural Language Processing(NLP), Computer Vision) | Explainatory Data Analysis | Data Visualization.
 
 **Project Links:** 
  - [Data Science Portfolio Projects](https://github.com/Raghu-murugankutty/Data-Science-Portfolio-Projects/blob/main/README.md) <br>
