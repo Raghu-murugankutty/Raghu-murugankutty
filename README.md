@@ -2,28 +2,29 @@
 
 <hr>
 
-**`Areas of Expertise:`**  `Machine Learning` | `Deep Learning` | `Natural Language Processing(NLP)` | `Computer Vision` | Explainatory Data Analysis | Data Visualization.
+**`Areas of Expertise:`**  Machine Learning | Deep Learning | Natural Language Processing(NLP) | Computer Vision | Explainatory Data Analysis | Data Visualization |
+                           Data Structure | Statistics | Scrum and Agile Methodologies
 
-`**Project Links:**`
+
+
+**`Project Links:`**
  - [Data Science Portfolio Projects](https://github.com/Raghu-murugankutty/Data-Science-Portfolio-Projects/blob/main/README.md) <br>
  - [Deep Learning Projects](https://github.com/Raghu-murugankutty/Deep-Learning-)
  - [Machine Learning Projects](https://github.com/Raghu-murugankutty/Machine-Learning-Projects-With-Python)
  - [Data Analysis Uisng Python](https://github.com/Raghu-murugankutty/Data-Analysis-using-python)
  - [Power BI Dashboards](https://github.com/Raghu-murugankutty/Power-BI-Projects)
 
-**Languages:**  Python | JavaScript | SQL | HTML.
+**`Languages:`**  Python | JavaScript | SQL | HTML.
 
-**Deep Learning Framework:** Tensorflow | PyTroch.
+**`Deep Learning Framework:`** Tensorflow | PyTroch.
 
-**Cloud Platforms:**  Azure | GCP | Heroku.
+**`Cloud Platforms:`**  Azure | GCP | Heroku.
 
-**Libraries & Tools:**  Pandas | NumPy | Matplotlib | Seaborn | Scikit-Learn | PyTorch |Tensorflow.
+**`Libraries & Tools:`**  Pandas | NumPy | Matplotlib | Seaborn | Scikit-Learn | PyTorch |Tensorflow.
 
-**Analytical & Vsiualization Tools:** Power BI | MS Excel.
-
+**`Analytical & Vsiualization Tools:`** Power BI | MS Excel.
 
 **Training & Recent Certificaitons:**  :medal_military: [here](https://github.com/Raghu-murugankutty/Certificates)
-
 
 ### Feel free to reach me 📱
 
