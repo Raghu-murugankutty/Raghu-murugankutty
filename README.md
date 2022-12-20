@@ -22,7 +22,7 @@
 **Analytical & Vsiualization Tools:** Power BI | MS Excel.
 
 
-**Training & Recent Certificaitons:** 
+**Training & Recent Certificaitons:**  :medal_military:
 <br>
 <br> All my certification can be accessed [here](https://github.com/Raghu-murugankutty/Certificates)
 
