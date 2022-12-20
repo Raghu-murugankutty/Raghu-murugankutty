@@ -11,19 +11,19 @@
  - [Data Analysis Uisng Python](https://github.com/Raghu-murugankutty/Data-Analysis-using-python)
  - [Power BI Dashboards](https://github.com/Raghu-murugankutty/Power-BI-Projects)
 
-**Languages:**  Python, JavaScript SQL, HTML.
+**Languages:**  Python | JavaScript | SQL | HTML.
 
-**Deep Learning Framework:** Tensorflow, PyTroch.
+**Deep Learning Framework:** Tensorflow | PyTroch.
 
-**Cloud Platforms:** Azure, Heroku, GCP
+**Cloud Platforms:**  Azure | GCP | Heroku.
 
-**Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, PyTorch, Keras and Tensorflow.
+**Libraries & Tools:** Pandas | NumPy | Matplotlib | Seaborn | Scikit-Learn | PyTorch |Tensorflow.
 
-**Analytical & Vsiualization Tools:** Power BI, MS Excel
+**Analytical & Vsiualization Tools:** Power BI | MS Excel.
 
-**Data Analysis:** Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.
 
 **Training & Recent Certificaitons:** 
+<br>
 <br> All my certification can be accessed [here](https://github.com/Raghu-murugankutty/Certificates)
 
 
