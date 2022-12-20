@@ -2,9 +2,9 @@
 
 <hr>
 
-**Skill set:**  Machine Learning | Deep Learning (Natural Language Processing(NLP), Computer Vision) | Explainatory Data Analysis | Data Visualization.
+**`Areas of Expertise:`**  `Machine Learning` | `Deep Learning` | `Natural Language Processing(NLP)` | `Computer Vision` | Explainatory Data Analysis | Data Visualization.
 
-**Project Links:** 
+`**Project Links:**`
  - [Data Science Portfolio Projects](https://github.com/Raghu-murugankutty/Data-Science-Portfolio-Projects/blob/main/README.md) <br>
  - [Deep Learning Projects](https://github.com/Raghu-murugankutty/Deep-Learning-)
  - [Machine Learning Projects](https://github.com/Raghu-murugankutty/Machine-Learning-Projects-With-Python)
