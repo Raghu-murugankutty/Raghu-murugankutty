@@ -26,7 +26,7 @@
 
 **Training & Recent Certificaitons:**  :medal_military: [here](https://github.com/Raghu-murugankutty/Certificates)
 
-### Feel free to reach me <img src="https://img.icons8.com/office/5/null/callback.png"/>
+### Feel free to reach me <img src="https://img.icons8.com/office/15/null/callback.png"/>
 
 [<img src="https://img.icons8.com/doodle/50/null/whatsapp.png"/>](https://wa.me/919846361426) 
 [<img target="_blank" src="https://img.icons8.com/doodle/50/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/raghumurugankutty/) 
