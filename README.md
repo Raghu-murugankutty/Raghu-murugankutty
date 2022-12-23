@@ -30,6 +30,8 @@
 
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919846361426) 
 [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/raghumurugankutty/) 
+[<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@raghu.murugankutty5)
+
 
 <hr>
 
