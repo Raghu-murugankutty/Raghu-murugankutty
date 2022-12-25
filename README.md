@@ -1,4 +1,4 @@
-### Hi there, I'm Raghu M 🌱🔭
+### Hi there, I'm Raghu Murugankutty 🌱🔭
 
 <hr>
 
