@@ -18,7 +18,7 @@
 
 **`Deep Learning Framework:`** Tensorflow | PyTroch.
 
-**`Cloud Platforms:`**  Azure | GCP | Heroku.
+**`Cloud Platforms:`**  AWS
 
 **`Libraries & Tools:`**  Pandas | NumPy | Matplotlib | Seaborn | Scikit-Learn | PyTorch |Tensorflow.
 
