@@ -1,5 +1,7 @@
 ### Hi there, I'm Raghu Murugankutty 🌱🔭
 
+Data scientist with a passion for uncovering insights and `solving complex problems`. Skilled in machine learning, statistics, and programming. `Constantly seeking to improve` and stay ahead of the curve through staying updated with the latest technologies and trends in the field.
+
 <hr>
 
 **`Areas of Expertise:`**  Machine Learning | Deep Learning | Natural Language Processing(NLP) | Computer Vision | Explainatory Data Analysis | Data Visualization |
