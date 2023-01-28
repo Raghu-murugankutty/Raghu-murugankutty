@@ -15,7 +15,7 @@ Data scientist with a `passion` for uncovering insights and `solving complex pro
 
 **`DBMS:`** MySQL | MongoDB
 
-**`Libraries & Tools:`**  Pandas | NumPy | Scikit-Learn | PyTorch | NLTK | Spacy | Matplotlib | Seaborn 
+**`Libraries & Tools:`**  Pandas | NumPy | Scikit-Learn | PyTorch | NLTK | SpaCy | Matplotlib | Seaborn 
 
 **`Analytical & Vsiualization Tools:`** Power BI | Tableau | MS Excel.
 
