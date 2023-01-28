@@ -34,7 +34,7 @@ Data scientist with a `passion` for uncovering insights and `solving complex pro
 
 <hr>
 
-<img src="https://img.icons8.com/color/25/null/google-blog-search.png"/><br> **My Blogs** 
+**My Blogs** <img src="https://img.icons8.com/color/25/null/google-blog-search.png"/><br> 
 
 I am passionate about writing articles related to data science and its related fields.
 Some of my published articles can be accessed below, and you can follow my [medium](https://medium.com/@raghu.murugankutty5) profile to check out my work.
