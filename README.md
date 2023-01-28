@@ -19,6 +19,8 @@ Data scientist with a `passion` for uncovering insights and `solving complex pro
 
 **`Analytical & Vsiualization Tools:`** Power BI | Tableau | MS Excel.
 
+**`ETL Tool:`** Talend.
+
 **Training & Recent Certificaitons:**  :medal_military: [here](https://github.com/Raghu-murugankutty/Certificates)
 
 <hr>
