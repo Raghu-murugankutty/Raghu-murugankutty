@@ -1,6 +1,6 @@
 ### Hi there, I'm Raghu Murugankutty 🌱🔭
 
-Data scientist with a `passion` for uncovering insights and `solving complex problems`. Skilled in machine learning, statistics, and programming. `Constantly seeking to improve` and stay ahead of the curve through staying updated with the latest technologies and trends in the field.
+Data scientist with a `passion` for uncovering insights and `solving complex problems`. I am currently working as a Senior Data Scientist at [**Lenovo**](https://www.lenovo.com/in/en). `Constantly seeking to improve` and stay ahead of the curve through staying updated with the latest technologies and trends in the field.
 
 <hr>
 
