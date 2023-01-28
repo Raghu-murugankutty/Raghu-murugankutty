@@ -50,7 +50,7 @@ Some of my published articles can be accessed below, and you can follow my [medi
 [<img src="https://img.icons8.com/doodle/50/null/whatsapp.png"/>](https://wa.me/919846361426) 
 [<img target="_blank" src="https://img.icons8.com/doodle/50/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/raghumurugankutty/) 
 [<img src="https://img.icons8.com/doodle/50/null/blogger--v1.png"/>](https://medium.com/@raghu.murugankutty5)
-[<img src="https://img.icons8.com/doodle/48/null/apple-mail.png"/>](<a href="mailto:user@example.com">user@example.com</a>)
+[<img src="https://img.icons8.com/doodle/48/null/apple-mail.png"/>](<a href="mailto:Raghu.murugankutty5@gmail.com"></a>)
 
 <hr>
 
