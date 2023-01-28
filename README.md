@@ -34,7 +34,7 @@ Data scientist with a `passion` for uncovering insights and `solving complex pro
 
 <hr>
 
-**My Blogs** <img src="https://img.icons8.com/color/25/null/google-blog-search.png"/><br>
+<img src="https://img.icons8.com/color/25/null/google-blog-search.png"/><br> **My Blogs** 
 
 I am passionate about writing articles related to data science and its related fields.
 Some of my published articles can be accessed below, and you can follow my [medium](https://medium.com/@raghu.murugankutty5) profile to check out my work.
@@ -54,7 +54,6 @@ Some of my published articles can be accessed below, and you can follow my [medi
 [<img src="https://img.icons8.com/doodle/50/null/whatsapp.png"/>](https://wa.me/919846361426) 
 
 <hr>
-
 
 <!--
 **Raghu-murugankutty/Raghu-murugankutty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
