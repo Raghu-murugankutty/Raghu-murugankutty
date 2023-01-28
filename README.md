@@ -1,13 +1,8 @@
 ### Hi there, I'm Raghu Murugankutty 🌱🔭
 
-Data scientist with a passion for uncovering insights and `solving complex problems`. Skilled in machine learning, statistics, and programming. `Constantly seeking to improve` and stay ahead of the curve through staying updated with the latest technologies and trends in the field.
+Data scientist with a `passion` for uncovering insights and `solving complex problems`. Skilled in machine learning, statistics, and programming. `Constantly seeking to improve` and stay ahead of the curve through staying updated with the latest technologies and trends in the field.
 
 <hr>
-
-**`Areas of Expertise:`**  Machine Learning | Deep Learning | Natural Language Processing(NLP) | Computer Vision | Explainatory Data Analysis | Data Visualization |
-                           Data Structure | Statistics | Scrum and Agile Methodologies
-
-
 
 **`Project Links:`**
  - [Data Science Portfolio Projects](https://github.com/Raghu-murugankutty/Data-Science-Portfolio-Projects/blob/main/README.md) <br>
@@ -16,15 +11,20 @@ Data scientist with a passion for uncovering insights and `solving complex probl
  - [Data Analysis Uisng Python](https://github.com/Raghu-murugankutty/Data-Analysis-using-python)
  - [Power BI Dashboards](https://github.com/Raghu-murugankutty/Power-BI-Projects)
 
+**`Areas of Expertise:`**  Machine Learning | Deep Learning | Natural Language Processing(NLP) | Computer Vision | Explainatory Data Analysis | Data Visualization |
+                           Data Structure | Statistics | Scrum and Agile Methodologies
+
 **`Languages:`**  Python | JavaScript | SQL | HTML.
 
 **`Deep Learning Framework:`** Tensorflow | PyTroch.
 
-**`Cloud Platforms:`**  AWS
+**`Cloud Platforms:`**  AWS | Amazon sageMaker 
 
-**`Libraries & Tools:`**  Pandas | NumPy | Matplotlib | Seaborn | Scikit-Learn | PyTorch |Tensorflow.
+**`DBMS:`** MySQL | MongoDB
 
-**`Analytical & Vsiualization Tools:`** Power BI | MS Excel.
+**`Libraries & Tools:`**  Pandas | NumPy | Scikit-Learn | PyTorch | NLTK | Spacy | Matplotlib | Seaborn 
+
+**`Analytical & Vsiualization Tools:`** Power BI | Tableau | MS Excel.
 
 **Training & Recent Certificaitons:**  :medal_military: [here](https://github.com/Raghu-murugankutty/Certificates)
 
