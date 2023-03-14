@@ -25,6 +25,11 @@ I am currently working as a Data Scientist at [**Lenovo**](https://www.lenovo.co
 
 <hr>
 
+**`ML Apps Links:`**
+- [customer-segmentation-app](https://customer-segmmentation-app.onrender.com/) <br>
+- 
+<hr>
+
 **`Project Links:`**
  - [Data Science Portfolio Projects](https://github.com/Raghu-murugankutty/Data-Science-Portfolio-Projects/blob/main/README.md) <br>
  - [Deep Learning Projects](https://github.com/Raghu-murugankutty/Deep-Learning-)
