@@ -32,7 +32,7 @@ I am currently working as a Data Scientist at [**Lenovo**](https://www.lenovo.co
 - 
 <hr>
 
-**`Project Links:`**
+**`Repository Links:`**
 -  [ML & DL Web APP](https://github.com/Raghu-murugankutty/ML-DL-Apps/blob/main/README.md)<br>
  - [Data Science Portfolio Projects](https://github.com/Raghu-murugankutty/Data-Science-Portfolio-Projects/blob/main/README.md) <br>
  - [Deep Learning Projects](https://github.com/Raghu-murugankutty/Deep-Learning-)
