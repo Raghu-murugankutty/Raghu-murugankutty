@@ -53,6 +53,7 @@ Some of my published articles can be accessed below, and you can follow my [medi
   - [Regularization in deep learning(CNN)-All you need to know!](https://medium.com/@raghu.murugankutty5/regularization-techniques-to-minimize-overfitting-in-deep-learning-image-classification-using-cnn-51d6406cfe0f)
   - [Implementing Random forest & XGBoost | All you need to know!](https://medium.com/@raghu.murugankutty5/walmart-store-sales-forecasting-random-forest-xgboost-hyperparameter-tuning-kaggle-bdc713875e63)
   - [How to connect Amazon Redshift using SQL Workbench](https://medium.com/@raghu.murugankutty5/how-to-amazon-redshift-using-sql-workbench-19e0309c2345)
+  - [What is a loss function? Why do we need a loss function?](https://medium.com/@raghu.murugankutty5/what-is-a-loss-function-5d4fd1b4957c)
   
 <hr>
 
