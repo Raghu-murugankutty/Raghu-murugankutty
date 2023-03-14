@@ -52,6 +52,7 @@ Some of my published articles can be accessed below, and you can follow my [medi
   - [Activation Functions — All You Need To Know!](https://medium.com/@raghu.murugankutty5/what-is-an-activation-function-f8b92b299a5b)
   - [Regularization in deep learning(CNN)-All you need to know!](https://medium.com/@raghu.murugankutty5/regularization-techniques-to-minimize-overfitting-in-deep-learning-image-classification-using-cnn-51d6406cfe0f)
   - [Implementing Random forest & XGBoost | All you need to know!](https://medium.com/@raghu.murugankutty5/walmart-store-sales-forecasting-random-forest-xgboost-hyperparameter-tuning-kaggle-bdc713875e63)
+  - [How to connect Amazon Redshift using SQL Workbench](https://medium.com/@raghu.murugankutty5/how-to-amazon-redshift-using-sql-workbench-19e0309c2345)
   
 <hr>
 
