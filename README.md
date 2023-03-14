@@ -21,6 +21,8 @@ I am currently working as a Data Scientist at [**Lenovo**](https://www.lenovo.co
 
 **`ETL Tool:`** Talend.
 
+<hr>
+
 **Training & Recent Certificaitons:**  :medal_military: [here](https://github.com/Raghu-murugankutty/Certificates)
 
 <hr>
