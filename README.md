@@ -55,7 +55,7 @@ Some of my published articles can be accessed below, and you can follow my [medi
   - [How to connect Amazon Redshift using SQL Workbench](https://medium.com/@raghu.murugankutty5/how-to-amazon-redshift-using-sql-workbench-19e0309c2345)
   - [What is a loss function? Why do we need a loss function?](https://medium.com/@raghu.murugankutty5/what-is-a-loss-function-5d4fd1b4957c)
   - [How to connect AWS redshift using vscode?](https://medium.com/@raghu.murugankutty5/to-connect-aws-redshift-by-using-python-notebook-vs-code-jupyter-notebook-all-you-need-to-660e7a2238f) 
-  - 
+  
   
 <hr>
 
