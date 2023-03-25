@@ -19,7 +19,6 @@ I am currently working as a Data Scientist at [**Lenovo**](https://www.lenovo.co
 
 **`Analytical & Vsiualization Tools:`** Power BI | Tableau | MS Excel.
 
-**`ETL Tool:`** Talend.
 
 <hr>
 
