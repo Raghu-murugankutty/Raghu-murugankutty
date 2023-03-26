@@ -28,7 +28,6 @@ I am currently working as a Data Scientist at [**Lenovo**](https://www.lenovo.co
 
 **`ML Apps Links:`**
 - `Customer segmentation streamlit webapp URL:`[customer-segmentation-app](https://customer-segmmentation-app.onrender.com/) <br>
-- 
 <hr>
 
 **`Repository Links:`**
