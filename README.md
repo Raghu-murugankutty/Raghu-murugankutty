@@ -4,6 +4,16 @@ A highly motivated MSc Data Science graduate, I am driven by a passion for uncov
 
 <hr>
 
+**`Technical Skills:`**  
+
+**` Programming Languages:`**  Python, SQL, R, JavaScript <br>
+**`DBMS:`** MySQL, MongoDB <br>
+**`ML & DL:`** SageMaker, TensorFlow, Keras, PyTorch, NLTK, Hugging Face, Scikit-Learn <br>
+**`Cloud Platforms:`**  AWS, Azure  <br>
+**` Data Analytics:`**  Amazon Redshift, Athena, Adobe Analytics, Pandas, Pyspark, PowerBI, Tableau, MS Excel <br>
+**`MLOps:`** Docker, GitHub Actions, GitHub, Git, CodePipeline, Elastic Beanstalk <br>
+
+
 **`Areas of Expertise:`**  
 
 • Proven ability to independently manage and deliver projects with high quality and on time. <br>
@@ -24,14 +34,6 @@ time-series analysis, and supervised and unsupervised learning.<br>
 Engineering, model development, and evaluation, tuning for problem-solving.<br>
 • Collaborated with stakeholders to gather requirements and comfortable presenting and sharing 
 ideas with other team members and stakeholders.<br>
-
-**` Programming Languages:`**  Python, SQL, R, JavaScript
-**`DBMS:`** MySQL, MongoDB
-**`ML & DL:`** SageMaker, TensorFlow, Keras, PyTorch, NLTK, Hugging Face, Scikit-Learn
-**`Cloud Platforms:`**  AWS, Azure 
-**` Data Analytics:`**  Amazon Redshift, Athena, Adobe Analytics, Pandas, Pyspark, PowerBI, Tableau, MS Excel
-**`MLOps:`** Docker, GitHub Actions, GitHub, Git, CodePipeline, Elastic Beanstalk.
-
 
 <hr>
 
