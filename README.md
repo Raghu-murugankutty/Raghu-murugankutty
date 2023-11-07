@@ -6,24 +6,24 @@ A highly motivated MSc Data Science graduate, I am driven by a passion for uncov
 
 **`Areas of Expertise:`**  
 
-• Proven ability to independently manage and deliver projects with high quality and on time.
+• Proven ability to independently manage and deliver projects with high quality and on time. <br>
 • Proficient in understanding, validating, breaking down business problems, and deriving 
-research questions through sessions and design thinking workshops.
-• Experienced in building and maintaining production-level Machine Learning models in Python.
+research questions through sessions and design thinking workshops.<br>
+• Experienced in building and maintaining production-level Machine Learning models in Python.<br>
 • Designed and implemented data pipelines for data ingestion, transformation, model training, 
-and prediction. Experienced in developing logging, utility, and exception modules.
+and prediction. Experienced in developing logging, utility, and exception modules.<br>
 • Proficient in deploying Machine Learning and Deep Learning models on Cloud platforms such as 
-AWS and Azure using CI/CD deployment processes with GitHub Actions.
-• Strong data manipulation and analysis skills using Python, SQL, Pandas, Pyspark, etc.
-• Proficient in data visualization with PowerBI, Tableau, MS Excel, Plotly, matplotlib, etc.
+AWS and Azure using CI/CD deployment processes with GitHub Actions.<br>
+• Strong data manipulation and analysis skills using Python, SQL, Pandas, Pyspark, etc.<br>
+• Proficient in data visualization with PowerBI, Tableau, MS Excel, Plotly, matplotlib, etc.<br>
 • Experience with deep learning frameworks such as TensorFlow, Keras, PyTorch, NLTK & Hugging
-Face. Good knowledge of SageMaker, LLMs, Gen AI, Mlflow, Docker & Kubernetes.
+Face. Good knowledge of SageMaker, LLMs, Gen AI, Mlflow, Docker & Kubernetes.<br>
 • Experience in data science techniques covering statistical analysis, A/B testing, 
-time-series analysis, and supervised and unsupervised learning.
+time-series analysis, and supervised and unsupervised learning.<br>
 • Proficient in data feasibility checks, data profiling, Exploratory Data Analysis (EDA), Feature 
-Engineering, model development, and evaluation, tuning for problem-solving.
+Engineering, model development, and evaluation, tuning for problem-solving.<br>
 • Collaborated with stakeholders to gather requirements and comfortable presenting and sharing 
-ideas with other team members and stakeholders
+ideas with other team members and stakeholders.<br>
 
 **` Programming Languages:`**  Python, SQL, R, JavaScript
 **`DBMS:`** MySQL, MongoDB
