@@ -1,23 +1,36 @@
 ### Hi there, I'm Raghu Murugankutty 🌱🔭
 
-I am currently working as a Data Scientist at [**Lenovo**](https://www.lenovo.com/in/en), driven by a `passion` for uncovering insights and `solving complex problems`. I stive to `constantly seeking to improve` and stay ahead of the curve through staying updated with the latest technologies and trends in the field.
+A highly motivated MSc Data Science graduate, I am driven by a passion for uncovering insights and solving complex problems. I am committed to constantly seeking improvement and staying ahead of the curve by staying updated with the latest technologies and trends in the field.
 
 <hr>
 
-**`Areas of Expertise:`**  Machine Learning | Deep Learning | Natural Language Processing(NLP) | Computer Vision | Explainatory Data Analysis | Data Visualization |
-                           Data Structure | Statistics | Scrum and Agile Methodologies
+**`Areas of Expertise:`**  
 
-**`Languages:`**  Python | JavaScript | SQL | HTML.
+• Proven ability to independently manage and deliver projects with high quality and on time.
+• Proficient in understanding, validating, breaking down business problems, and deriving 
+research questions through sessions and design thinking workshops.
+• Experienced in building and maintaining production-level Machine Learning models in Python.
+• Designed and implemented data pipelines for data ingestion, transformation, model training, 
+and prediction. Experienced in developing logging, utility, and exception modules.
+• Proficient in deploying Machine Learning and Deep Learning models on Cloud platforms such as 
+AWS and Azure using CI/CD deployment processes with GitHub Actions.
+• Strong data manipulation and analysis skills using Python, SQL, Pandas, Pyspark, etc.
+• Proficient in data visualization with PowerBI, Tableau, MS Excel, Plotly, matplotlib, etc.
+• Experience with deep learning frameworks such as TensorFlow, Keras, PyTorch, NLTK & Hugging
+Face. Good knowledge of SageMaker, LLMs, Gen AI, Mlflow, Docker & Kubernetes.
+• Experience in data science techniques covering statistical analysis, A/B testing, 
+time-series analysis, and supervised and unsupervised learning.
+• Proficient in data feasibility checks, data profiling, Exploratory Data Analysis (EDA), Feature 
+Engineering, model development, and evaluation, tuning for problem-solving.
+• Collaborated with stakeholders to gather requirements and comfortable presenting and sharing 
+ideas with other team members and stakeholders
 
-**`Deep Learning Framework:`** Tensorflow | PyTroch.
-
-**`Cloud Platforms:`**  AWS | Amazon sageMaker 
-
-**`DBMS:`** MySQL | MongoDB
-
-**`Libraries & Tools:`**  Pandas | NumPy | Scikit-Learn | PyTorch | NLTK | SpaCy | Matplotlib | Seaborn 
-
-**`Analytical & Vsiualization Tools:`** Power BI | Tableau | MS Excel.
+**` Programming Languages:`**  Python, SQL, R, JavaScript
+**`DBMS:`** MySQL, MongoDB
+**`ML & DL:`** SageMaker, TensorFlow, Keras, PyTorch, NLTK, Hugging Face, Scikit-Learn
+**`Cloud Platforms:`**  AWS, Azure 
+**` Data Analytics:`**  Amazon Redshift, Athena, Adobe Analytics, Pandas, Pyspark, PowerBI, Tableau, MS Excel
+**`MLOps:`** Docker, GitHub Actions, GitHub, Git, CodePipeline, Elastic Beanstalk.
 
 
 <hr>
